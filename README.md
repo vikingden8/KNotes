@@ -17,7 +17,7 @@ KNotes
 
   * 原作者：Federico Iosue - [Website](http://federicoiosue.github.io/)
 
-  * 修改者：Viking Den - [Website][http://vikingden.cn]
+  * 修改者：Viking Den - [Website](http://vikingden.cn)
 
 ### License
 
