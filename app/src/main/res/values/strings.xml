@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">KNotes</string>
+
+    <!--for menu list-->
+    <string name="search">Search</string>
+    <string name="filter_old_reminders">Hide old reminders</string>
+    <string name="remove_filter_old_reminders">Show old reminders</string>
+    <string name="filter_archived">Hide archived notes</string>
+    <string name="remove_filter_archived">Show archived notes</string>
+    <string name="category">Category</string>
+    <string name="tag">Tag</string>
+    <string name="tags">Tags</string>
+    <string name="select_all">Select all</string>
+    <string name="add_reminder">Add reminder</string>
+    <string name="share">Share</string>
+    <string name="merge">Merge</string>
+    <string name="archive">Archive</string>
+    <string name="unarchive">Restore from archive</string>
+    <string name="trash">Trash</string>
+    <string name="untrash">Restore from trash</string>
+    <string name="delete">Delete</string>
+    <string name="sort">Sort</string>
+    <string name="contracted_view">Reduced view</string>
+    <string name="expanded_view">Expanded view</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="empty_trash">Empty trash</string>
+
 </resources>
