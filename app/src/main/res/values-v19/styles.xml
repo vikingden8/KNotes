@@ -16,13 +16,13 @@
   -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="OmniNotesTheme.ApiSpec" >
+    <style name="KNotesTheme.ApiSpec" >
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">@bool/transparent_nav</item>
     </style>
 
 
-    <style name="OmniNotesFullscreenTheme.ApiSpec">
+    <style name="KNotesFullscreenTheme.ApiSpec">
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">@bool/transparent_nav</item>
     </style>

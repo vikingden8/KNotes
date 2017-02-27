@@ -15,16 +15,11 @@
   ~ You should have received a copy of the GNU General Public License
   ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   -->
-<resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#F44336</color>
-    <color name="colorAccentPressed">#D32F2F</color>
 
-    <color name="gray_bg">#e2e2e2</color>
-
-    <color name="black_overlay">#33000000</color>
-
-    <!-- Statusbar overlay -->
-    <color name="statusbar_overlay">#20000000</color>
-</resources>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+    <gradient
+        android:startColor="@android:color/transparent"
+        android:endColor="#88333333"
+        android:angle="90"/>
+</shape>
